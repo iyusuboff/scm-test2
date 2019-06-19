@@ -9,6 +9,7 @@ public class Main{
         main.test3();
         main.test5();
         main.test6();
+        main.test7();
     }
 
     private void test(){
@@ -27,8 +28,11 @@ public class Main{
         System.out.print("Hello");
     }
 
-
     private void test6(){
+        System.out.print("Hello");
+    }
+
+    private void test7(){
         System.out.print("Hello");
     }
 }
