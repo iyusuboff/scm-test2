@@ -8,6 +8,7 @@ public class Main{
         main.test2();
         main.test3();
         main.test5();
+        main.test6();
     }
 
     private void test(){
@@ -23,6 +24,11 @@ public class Main{
     }
 
     private void test5(){
+        System.out.print("Hello");
+    }
+
+
+    private void test6(){
         System.out.print("Hello");
     }
 }
